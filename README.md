@@ -12,6 +12,16 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" width="40" height="40"/><nobr>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-plain-wordmark.svg" width="40" height="40"/><nobr>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+## Sobre:
+
+Me chamo Matheus Andrade. Apesar de não ter formação acadêmica, sou uma pessoa curiosa e sempre em busca de conhecimento. Atualmente, trabalho como motorista, mas tenho um grande interesse em tecnologia e venho estudando para me desenvolver nessa área.
+
+Desde criança descobri minha paixão por computadores e programação, tenho dedicado meu tempo livre para estudar e aprimorar minhas habilidades nessa área. Apesar de ser um iniciante, estou confiante em minhas habilidades e sei que com dedicação e empenho, posso me tornar um profissional bem-sucedido.
+
+Minha experiência como motorista me ensinou a ser disciplinado, pontual e responsável, habilidades que considero fundamentais em qualquer carreira. Além disso, estou sempre em busca de novas oportunidades para crescer e me desenvolver.
+
+Acredito que a tecnologia é um campo emocionante e em constante evolução, e estou animado em fazer parte desse universo. Meu objetivo é seguir aprendendo e evoluindo como profissional, buscando sempre me atualizar e me adaptar às mudanças do mercado.
+  
 ## Contatos:
 
 <div>
